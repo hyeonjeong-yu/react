@@ -1,2 +1,1 @@
-# react_blog
-react study
+React Toy Project - Shop Page
