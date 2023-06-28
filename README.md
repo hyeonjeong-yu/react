@@ -1,1 +1,1 @@
-React Toy Project - Shop Page
+React Learning - Shop Page
